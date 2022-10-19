@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="7장">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/완성프로젝트/7장/RequestParamSample.zip!/" />
+      <root url="jar://$PROJECT_DIR$/완성프로젝트/7장/PathVariableSample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="6장">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/완성프로젝트/6장/ThymeleafSample.zip!/" />
+      <root url="jar://$PROJECT_DIR$/완성프로젝트/6장/SpringMVCModelSample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
